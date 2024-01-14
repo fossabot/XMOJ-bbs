@@ -59,6 +59,7 @@ INSERT INTO bbs_board (board_name) VALUES ('学术版');
 INSERT INTO bbs_board (board_name) VALUES ('灌水区');
 INSERT INTO bbs_board (board_name) VALUES ('反馈区');
 INSERT INTO bbs_board (board_name) VALUES ('题目总版');
+INSERT INTO bbs_board (board_name) VALUES ('陶片放逐');
 
 DROP TABLE IF EXISTS phpsessid;
 
